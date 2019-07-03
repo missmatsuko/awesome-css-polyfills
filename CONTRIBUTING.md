@@ -14,4 +14,4 @@ Follow the common contribution process:
 See [First Contributions](https://github.com/firstcontributions/first-contributions) for more details on each step.
 
 ### Adding a polyfill
-Check the [add polyfill pull request template](PULL_REQUEST_TEMPLATE/add-polyfill.md) and ensure your addition meets the requirements outlined thete. Make sure to select this template when making a pull request to add a polyfill to the list.
+Check the [add polyfill pull request template](PULL_REQUEST_TEMPLATE/add-polyfill.md) and ensure your addition meets the requirements outlined there. Make sure to select this template when making a pull request to add a polyfill to the list.
